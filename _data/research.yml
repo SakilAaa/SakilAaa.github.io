@@ -1,0 +1,35 @@
+- id: vp-training
+  title: "Multimodal Virtual Patient for Psychotherapy Training"
+  cover: "/assets/images/covers/VP.png"
+  authors:
+    - "CMU Social AI Lab, advised by Professors Haiyi Zhu, Sherry Wu, Paul Liang and Robert Kraut"
+  # pub_pre: ""
+  # pub: "Research Project"
+  pub_post: "Jul 2025 - present"
+  # pub_date: ""
+  abstract: >-
+    <p style="font-size: 1em;"> 🫂  Psychotherapy depends on subtle nonverbal cues vital for effective care. <br>
+     💬  Our study advances beyond text-based simulations of psychotherapy patients by integrating these cues—pauses, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hesitations, and prosody—to help trainees detect client withdrawal earlier and address accordingly.</p>
+
+- id: refcheck
+  title: "Quantifying LLM-Hallucinated References in Academic Literature"
+  cover: "/assets/images/covers/refcheck.png"
+  authors:
+    - "Cornell InfoSci, advised by Professor Yian Yin"
+  # pub_pre: ""
+  # pub: "Research Project"
+  pub_post: "Nov 2024 - present"
+  # pub_date: ""
+  abstract: >-
+    <p style="font-size: 1em;">🤥  LLMs leave fake references in research papers — traces we can all spot, but few can measure. <br>
+    📚  We extract and cross-check millions of references across major databases, uncovering a steep, almost exponential <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rise in unmatched citations—and, after de-noising, a large corpus of genuine hallucinations.</p>
+
+- id: refcheck
+  title: "Examining the Effect of Reasoning Post-Training on the Depth of LLM Story Writing"
+  cover: "/assets/images/covers/PsychDepth.png"
+  authors:
+    - "UCLA PLUS Lab, advised by Professors Violet Peng and Amit Sahai"
+  pub_post: "Jan 2025 - Jun 2025"
+  abstract: >-
+    <p style="font-size: 1em;">🤔  Do reasoning models' higher math scores come at the cost—or benefit—of greater psychological depth? <br>
+    ✏️  We perform math post-training to disentangle its effect on text generation and run human evaluations comparing<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; base models and their reasoning variants across empathy, narrative complexity, and other dimensions.

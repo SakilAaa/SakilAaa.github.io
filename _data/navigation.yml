@@ -3,7 +3,7 @@ pages:
 #       For example, the `navbar_title` field in `showcase.html` is "Showcase" and the `name` field here should also be "Showcase"
 - name: Home
   url: /
-- name: Publications
-  url: /publications
+- name: Research
+  url: /research
 - name: CV
-  url: /assets/pdfs/Yihe_CV_1027.pdf
+  url: /assets/pdfs/yihe.html
