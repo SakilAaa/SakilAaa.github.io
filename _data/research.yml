@@ -1,6 +1,6 @@
 - id: vp-training
   title: "Multimodal Virtual Patient for Psychotherapy Training"
-  cover: "/assets/images/covers/VP.png"
+  cover: "/assets/images/covers/VP.jpg"
   authors:
     - "CMU Social AI Lab, advised by Professors Haiyi Zhu, Sherry Wu, Paul Liang and Robert Kraut"
   # pub_pre: ""
@@ -13,7 +13,7 @@
 
 - id: refcheck
   title: "Quantifying LLM-Hallucinated References in Academic Literature"
-  cover: "/assets/images/covers/refcheck.png"
+  cover: "/assets/images/covers/refcheck.jpg"
   authors:
     - "Cornell InfoSci, advised by Professor Yian Yin"
   # pub_pre: ""
