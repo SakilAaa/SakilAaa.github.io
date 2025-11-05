@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Thrilled to arrive in Los Angeles and begin my exchange at UCLA 🥳
+date: 2025-01-09 14:00:00 +0800
 ---
